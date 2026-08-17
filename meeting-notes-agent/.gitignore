@@ -5,3 +5,4 @@ __pycache__/
 .vscode/
 data/outputs/*.json
 !data/outputs/sync_meeting_output.json
+.venv/
