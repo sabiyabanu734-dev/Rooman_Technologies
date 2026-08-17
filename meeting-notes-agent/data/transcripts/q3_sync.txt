@@ -1,0 +1,11 @@
+﻿Meeting: Q3 Product & Infrastructure Sync
+Date: October 14, 2026
+Attendees: Sarah (Engineering Lead), Alex (Product Manager), Marcus (DevOps Lead)
+
+Alex: Thanks for joining, everyone. First item on the agenda is the cloud migration. Marcus, how are we looking?
+Marcus: We're target-ready for AWS migration, but we need to finalize the database cluster config by Friday. I'll handle that configuration by October 17th.
+Sarah: Sounds good. On the feature side, the new reporting dashboard is complete, but QA flagged two edge cases in export formats. I'll assign David to patch those by next Tuesday, October 20th.
+Alex: Great. Did we make a call on the legacy API deprecation timeline?
+Sarah: Yes, we agreed to officially deprecate API v1 on November 30th and notify external developers by the end of this week.
+Alex: Perfect. I'll draft and send out the developer announcement email by October 16th. Let me also update the Jira project board today so everyone stays aligned.
+Marcus: One last thing: we need to review security audit logs before the compliance check. I'll run the audit report by Thursday.
