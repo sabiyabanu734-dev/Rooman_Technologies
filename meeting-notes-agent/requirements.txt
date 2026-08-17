@@ -2,5 +2,5 @@ google-genai>=0.1.0
 pydantic>=2.7.0
 python-dotenv>=1.0.1
 rich>=13.7.0
-pytest>=8.0.0pypdf==6.16.1
+pytest>=8.0.0
 pypdf==6.16.1
